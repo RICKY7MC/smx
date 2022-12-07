@@ -1,0 +1,17 @@
+body{
+    background-color:darkgray;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+H1{
+    text-align: center;
+}
+nav{
+    text-align: end;
+    margin: 20px;
+ 
+}
+button{
+    font-size: 20px;
+    margin-left: 250px;
+}
